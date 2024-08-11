@@ -159,12 +159,6 @@ A: Please refer to the [Support](#support) section or open an issue on our GitHu
 
 ## Support
 
-For any issues or questions, please open an issue on our [GitHub repository](https://github.com/your-repo/graduates-guidance-system/issues) or contact our support team at support@example.com.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
+For any issues or questions, please open an issue on our [GitHub repository](https://github.com/your-repo/graduates-guidance-system/issues) 
 
 Feel free to adjust any details to better fit your project's specifics!
